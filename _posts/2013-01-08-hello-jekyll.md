@@ -8,5 +8,7 @@ title: Hello Jekyll!
 
 Google一下就会找到很多的配置文章。
 
+同时也在github上创建了 binli.github.com 的博客。
+
 目前我使用[Prose](http://prose.io)直接在线写，如果忘记了Markdown的语法直接Ctrl+Shift+Left切到帮助，编辑完成后直接提交至Github，方便快捷。
 注意撰写时前面的meta部分，Prose设计的UI中输入框内直接就是正文部分，像标题、Tag这些东西是藏在上面Metadata按钮的页面里的.
