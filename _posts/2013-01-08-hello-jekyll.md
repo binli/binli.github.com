@@ -4,9 +4,6 @@ published: true
 category: worklog
 title: Hello Jekyll!
 ---
-
-# Hello jekyll!
-
 无意间浏览了onebitbug.me的一篇文章，了解了jekyll，研究了两天发现太强大了，也正符合我的需求，感觉太爽了，真的像黑客一样写自己的技术博客。
 
 Google一下就会找到很多的配置文章。
