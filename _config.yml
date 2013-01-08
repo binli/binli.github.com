@@ -1,8 +1,6 @@
 markdown: kramdown
 pygments: true
 safe: false
-server_port: 4000
-url: http://localhost:4000
 permalink: /posts/:title.html
 exclude:
   - README.md
