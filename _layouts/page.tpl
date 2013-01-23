@@ -18,7 +18,7 @@
 	{{ content }}
 
 	<footer>
-		<p>&copy; Since 2012</p>
+		<p>&copy; Since 2013 by BinLi</p>
 	</footer>
 </div>
 
