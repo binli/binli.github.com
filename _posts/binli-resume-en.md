@@ -8,12 +8,14 @@ Blog: <http://libincharles.wordpress.com> & <http://binli.github.com>
 
 OBJECTIVE
 --------
-A Senior Software Engineer relates to Network Security and C/C++ Development.  
+A Senior Software Engineer relates to Network Security and Linux Kernel.
 
 EXPERIENCE
 --------
 ###2007.04-Present, Senior Software Engineer II, Novell/SUSE Inc.
 * **L3 Maintenance Team**, help customer to quickly solve all kinds of problem related to SLES and SLED, ranging from analyzing coredump to debugging application.   
+    * Familiar with crash tool to locate the reason of OOPs/BUGs/Panic.
+    * Maintained the iproute2 package, backport patch for lastest new features.
 * **Desktop Team**, 4 years involved in maintaining the VPN related opensource projects in SUSE Linux.   
     * Maintained the novell-ipsec-tools and turnpike, familiar with IPsec protocol.   
     * Maintained the NetworkManager and VPN plugins, familiar with GTK development.   
