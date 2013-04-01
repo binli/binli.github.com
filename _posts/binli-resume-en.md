@@ -13,9 +13,11 @@ A Senior Software Engineer relates to Network Security and Linux Kernel.
 EXPERIENCE
 --------
 ###2007.04-Present, Senior Software Engineer II, Novell/SUSE Inc.
-* **L3 Maintenance Team**, help customer to quickly solve all kinds of problem related to SLES and SLED, ranging from analyzing coredump to debugging application.   
-    * Familiar with crash tool to locate the reason of OOPs/BUGs/Panic.
-    * Maintained the iproute2 package, backport patch for lastest new features.
+* **L3 Maintenance Team**, Communication and collaboration with NTS team to resolve customer to quickly solve all kinds of problem related to SLES and SLED, ranging from analyzing coredump to debugging application.   
+    * Familiar with crash tool, 
+    * Resolved issue for base system software, such heavy memory use in console-kit-daemon recently.
+    * Resolved issue for GNOME Desktop software, 
+    * Maintained the iproute2 package in part time, backport some patches which is related to tc, cgroup.
 * **Desktop Team**, 4 years involved in maintaining the VPN related opensource projects in SUSE Linux.   
     * Maintained the novell-ipsec-tools and turnpike, familiar with IPsec protocol.   
     * Maintained the NetworkManager and VPN plugins, familiar with GTK development.   
@@ -27,7 +29,7 @@ EXPERIENCE
 
 Open Source Software Community
 --------
-* 2013, GNOME.Asia Committee member.  
+* 2013, GNOME.Asia Committee member, help organize the GNOME.Asia 2013 in Korea. 
 * 2012, the presider of Beijing GNOME User Group, <http://www.bjgug.org>.  
 * 2011, became GNOME membership(<binli@gnome.org>), and sponsored by GNOME foundation to GUADEC for several times.  
 * 2008, openSUSE membership(<binli@opensuse.org>), managed and maintained the local openSUSE website in China, <http://zh.opensuse.org>.  
