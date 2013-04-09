@@ -35,6 +35,28 @@ console-kit-daemon is consuming large amounts of memory
 
 <https://bugs.freedesktop.org/show_bug.cgi?id=17720>
 
+关于Patch
+===
+什么是 VT_WAITEVENT?
+
+在 2.6.32 以后的内核，支持了新的 ioctl 请求 VT_WAITEVENT
+能够监视 vt 切换并返回新的 vt 号。
+
+什么是VT?
+
+在内核的drivers/tty/vt/目录下有vt的实现，看了下drivers/tty/Kconfig 中对 VT 的解释
+
+VT 就是虚拟终端(Virtual terminal)，也可叫做虚拟控制台(virtual consoles)，之所以称为
+虚拟是因为你可以在一个真实的物理终端上运行多个虚拟终端。
+这相当有用，比如一个虚拟终端用于收集系统日志，一个用于用户使用文本界面的session，
+一个用于 X 图形界面的session。在不同的终端用 Alt + <Fn> 来切换。
+
+如果禁用了VT模块，那么你只能从串口或网络连接来登录系统，嵌入系统经常会禁用它以节省
+资源。
+
+为什么创建了64个线程？
+
+这个问题是怎么解决的？
 
 常用工具
 ===
@@ -80,7 +102,8 @@ valgrind's memcheck and callgrind
 
 	$ valgrind  --leak-check=full --log-file=ckd  /usr/sbin/console-kit-daemon
 	$ valgrind --tool=callgrind /usr/sbin/console-kit-daemon
-	callgrind.out.12195
+	$ callgrind_annotate callgrind.out.12195
+        $ kcachegrind callgrind.out.12195 # 图形化的工具
 	$ valgrind --tool=massif --pages-as-heap=yes --depth=50 /usr/sbin/console-kit-daemon --no-daemon
 	massif.out.12227
 

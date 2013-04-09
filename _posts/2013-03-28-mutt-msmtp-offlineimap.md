@@ -10,6 +10,8 @@ Offlineimap
 喜欢它是因为，目录和邮件服务器的上目录结构一致，而getmail还需要定义一套规则来分类邮件。   
 再一个是配置起来容易，可以方便的配置多个邮箱。
 
+把密码明文写到一个单独的配置文件中，如bili.pass或libin.pass。
+
 	[general]
 	accounts = bili, libin
 
@@ -28,7 +30,7 @@ Offlineimap
 	remotehost = xxxx
 	remoteport = xxx
 	remoteuser = xxxxxx
-	remotepass = xxxx
+	remotepassfile = /work/mail/bili.pass
 	
 	[Account libin]
 	localrepository = libin_local
@@ -44,11 +46,40 @@ Offlineimap
 	type = Gmail
 	realdelete = yes
 	remoteuser = xxx@gmail.com
-	remotepass = xxxx
+	remotepassfile = /work/mail/libin.pass
 
 需要注意的是在收取Gmail邮件时一定要把'All Mail', 'Important'的邮件过滤掉，否则，这2个标签下的邮件非常多，同步起来是要死人的，而且是和Inbox下是重复的。
 
 folderfilter = lambda foldername: foldername not in ['[Gmail]/Starred', '[Gmail]/Important', '[Gmail]/All Mail']
+
+msmtp的配置文件msmtprc。
+
+	defaults
+	logfile ~/.msmtp.log
+	tls_certcheck off
+	
+	# gmail account
+	account gmail
+	auth on
+	host smtp.gmail.com
+	port 587
+	user libin.charles
+	passwordeval cat /work/mail/libin.pass
+	from libin.charles@gmail.com
+	tls on
+	
+	account SUSE
+	host smtp.novell.com
+	tls on
+	auth on
+	port 25
+	from bili@suse.com
+	user bili
+	passwordeval cat /work/mail/bili.pass
+	
+	#tls_trust_file /etc/ssl/certs/ca-certificates.crt
+	# set default account to use (from above)
+	account default : gmail
 
 参考
 ===
