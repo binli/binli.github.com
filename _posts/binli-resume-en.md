@@ -14,9 +14,9 @@ EXPERIENCE
 --------
 ###2007.04-Present, Senior Software Engineer II, Novell/SUSE Inc.
 * **L3 Maintenance Team**, Communication and collaboration with NTS team to resolve customer to quickly solve all kinds of problem related to SLES and SLED, ranging from analyzing coredump to debugging application.   
-    * Familiar with crash tool, such as analyzing Kernel panic in clear_inode+161 recently.
-    * Resolved issue for base system software, such as heavy memory use in console-kit-daemon recently.
-    * Resolved issue for GNOME Desktop software, such as Banshee crashes.
+    * Familiar with crash tool and ASM language, such as analyzing Kernel panic in clear_inode+161 recently.
+    * Help fix issue of base system software, such as heavy memory use in console-kit-daemon recently.
+    * Fix bugs from GNOME Desktop software, such as NetworkManager, Banshee crashes recently.
     * Maintained the iproute2 package in part time, backport some patches which is related to tc, cgroup.
 * **Desktop Team**, 4 years involved in maintaining the VPN related opensource projects in SUSE Linux.   
     * Maintained the novell-ipsec-tools and turnpike, familiar with IPsec protocol.   

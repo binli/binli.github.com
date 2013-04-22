@@ -86,3 +86,7 @@ msmtp的配置文件msmtprc。
 推荐这篇博客，写的比较简洁，网上搜一下关键字会出来一大堆相关的配置的。
 
 <http://www.imtxc.com/blog/2012/04/22/use-gmail-plus-mutt-plus-msmtp-plus-offlineimap/>
+
+多帐号的设置
+
+<http://www.df7cb.de/blog/2010/Using_multiple_IMAP_accounts_with_Mutt.html>
