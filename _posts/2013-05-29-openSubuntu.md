@@ -2,7 +2,7 @@
 layout: post
 published: true
 category: worklog
-title: 从openSUSE 12.3 切换到 ubuntu 13.04 遇到的问题
+title: 打造openSubuntu - 从openSUSE 12.3 切换到 ubuntu 13.04 遇到的问题
 ---
 刚切换到ubuntu小有不适，发现有些好的东东在ubuntu上都没有，那么就集两家之长来打造我的openSubuntu。
 
@@ -11,10 +11,11 @@ offlineimap 读取 Gmail 出错 "Server SSL fingerprint"
 offlineimap 收取不了邮件，找到了相应的bug和解决方案。
 具体的原因不知是版本升级的缘故还是其它，在openSUSE上一直无问题。
 
-https://bugs.launchpad.net/ubuntu/+source/offlineimap/+bug/1015692
+<https://bugs.launchpad.net/ubuntu/+source/offlineimap/+bug/1015692>
 
 在Repository中加入报错提示的fingerprint就行了
-cert_fingerprint = ""
+
+    cert_fingerprint = ""
 
 HOME下无bin 目录
 ===
@@ -60,5 +61,6 @@ Ubuntu中HOME下的.profile中检查该目录并加入到$PATH中。
     alias unmount='echo "Error: Try the command: umount" 1>&2; false'
 
 移植到了ubuntu上，ubuntu的别名文件和openSUSE我别名文件的命名方式还略有不同。
+
 <https://github.com/binli/script_factory/blob/master/homerc/bash_aliases>
 

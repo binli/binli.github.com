@@ -16,13 +16,16 @@ FAQ
 收集了一下，在开发过程中碰到的小问题。
 
 1. Where is the system icons?
+
 gnome-icon-theme-symbolic package, include mail-unread-symbolic and mail-read-symbolic.
 
 2. How to add an icon?  
 有2种方式，一种是传统的，新建icon，新建button，把icon加到button中，再插入到panel上。
+
 另一种是使用，PanelMenu.SystemStatusButton，推荐使用这个，方便且功能强大，你可以直接操作菜单的相关东东。
 
 3. What's the use of "__proto__:"?  
+
 原型，类似于基类，目前是这么理解的。
 
 TODO
