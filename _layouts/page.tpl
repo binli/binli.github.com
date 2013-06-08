@@ -45,6 +45,11 @@
 		</figure>
 		<p>一普通Linuxer的技术博客，Kernel的初学者</p>
 	</div>
+	<div class="block block-about">
+		<h3>Links</h3>
+		<p><a href="http://libincharles.wordpress.com" target="_blank">Blog in English</a></p>
+		<p><a href="http://picasaweb.google.com/libin.charles" target="_blank">Gallery</a></p>
+    </div>
 	
 	<div class="block block-license">
 		<h3>Copyright</h3>
