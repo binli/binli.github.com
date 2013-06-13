@@ -6,8 +6,8 @@ title: resume
 ---
 LiBin(Charles)'s Resume
 ==============
-Addr: *Rm 3603, Beijing Fortune Plaza Office Tower A, No.7 Dongsanhuan Zhonglu,*   
-*Chaoyang District, Beijing, P.R. China, 100020*  
+Addr: *Rm 761, OuMeiHui Plaza, No.2 HaiDian DongSanJie,*   
+*HaiDian District, Beijing, P.R. China, 100080*  
 Tel: *(+86)1352-160-4968*  
 Email: <libin.charles@gmail.com>   
 Blog: <http://libincharles.wordpress.com> & <http://binli.github.com>  
@@ -20,6 +20,7 @@ EXPERIENCE
 --------
 ###2013.05-Present, Software Engineer, Canonical Std.
 * PES team
+
 ###2007.04-2013.5, Senior Software Engineer II, Novell/SUSE Inc.
 * **L3 Maintenance Team**, Communication and collaboration with NTS team to resolve customer to quickly solve all kinds of problem related to SLES and SLED, ranging from analyzing coredump to debugging application.   
     * Familiar with crash tool and ASM language, such as analyzing Kernel panic in clear_inode+161 recently.
