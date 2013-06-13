@@ -1,3 +1,9 @@
+---
+layout: post
+published: false
+category: uncategorized
+title: resume
+---
 LiBin(Charles)'s Resume
 ==============
 Addr: *Rm 3603, Beijing Fortune Plaza Office Tower A, No.7 Dongsanhuan Zhonglu,*   
