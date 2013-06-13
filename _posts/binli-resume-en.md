@@ -18,7 +18,9 @@ A Senior Software Engineer relates to Network Security and Linux Kernel.
 
 EXPERIENCE
 --------
-###2007.04-Present, Senior Software Engineer II, Novell/SUSE Inc.
+###2013.05-Present, Software Engineer, Canonical Std.
+* PES team
+###2007.04-2013.5, Senior Software Engineer II, Novell/SUSE Inc.
 * **L3 Maintenance Team**, Communication and collaboration with NTS team to resolve customer to quickly solve all kinds of problem related to SLES and SLED, ranging from analyzing coredump to debugging application.   
     * Familiar with crash tool and ASM language, such as analyzing Kernel panic in clear_inode+161 recently.
     * Help fix issue of base system software, such as heavy memory use in console-kit-daemon recently.
