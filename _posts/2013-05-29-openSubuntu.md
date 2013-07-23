@@ -64,3 +64,10 @@ Ubuntu中HOME下的.profile中检查该目录并加入到$PATH中。
 
 <https://github.com/binli/script_factory/blob/master/homerc/bash_aliases>
 
+用quilt 制作patch
+===
+使用rpm的好处是直接可以使用`quilt setup xxx.spec`来直接解开源码的压缩包。
+使用deb包就没这么方便了，得选用`dpkg-source -x xxx.dsc`来解开源码和patch的压缩包。
+注意的是deb的patches在debian目录下，进入源码目录后，还得把它链接过来`ln -s debian/patches .`。
+
+这之后两者使用起来没什么区别了，`quilt push`, `quilt new`, `quilt add`, ....
