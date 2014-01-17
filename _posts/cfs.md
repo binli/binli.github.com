@@ -1,4 +1,3 @@
-
 Beijing, China
 ==
 May 24-25 2014
@@ -9,18 +8,26 @@ www.gnome.asia
 Become a Sponsor
 ===
 
-GNOME.Asia summit 2014 will be held in Beijing,China. The first ever GNOME.Asia Summit 2008 was hosted in Beijing. It will be great for GNOME.Asia to come back to Beijing again in the coming year. Beijing, the capital of the People’s Republic of China, has been the political and cultural center of China for centuries. The city is renowned for its palaces, temples, huge stone walls and gates, and its art treasures and universities have made it a center of culture and art in China. There are good airport connections, and train/bus/subway infrastructure. We believe that hosting the event in Beijing will bring the spotlight on GNOME and make an impact locally, regionally and internationally in terms of business and community building.
+The GNOME.Asia Summit 2014 will be held in Beijing, China.
+The very first GNOME.Asia Summit was hosted in Beijing in 2008.
+It will be great for the GNOME.Asia Summit to come back to Beijing again in the coming year. Beijing, the capital of the People’s Republic of China, has been the political and cultural center of China for 
+centuries. The city is renowned for its palaces, temples, huge stone walls and gates, and its art treasures and universities have made it a center of culture and art in China. There are good airport 
+connections, and train/bus/subway infrastructure. We believe that hosting the event in Beijing will bring the spotlight on GNOME and make an impact locally, regionally, and internationally in terms of 
+business and community building.
 
-GNOME.Asia Summit 2014 will provide a unique opportunity for stakeholders to discuss Free and Open Source Software solutions, programming, promotion and community growth challenges for the GNOME project and in Asia. Besides being a community event, the summit is set up to function as a gateway for companies interested in Asian markets. 
+The GNOME.Asia Summit 2014 will provide a unique opportunity for stakeholders to discuss Free and Open Source Software solutions, programming, promotion, and challenges that GNOME, but also other Asian communities face while growing.
+Besides being a community event, the summit is set up to function as a gateway for companies interested in Asian markets.
 
 We are offering sponsorship partnership for the event.
 
 As a sponsor, you are offered:
-* Matchmaking opportunities for companies with local enterprises, been invited to business session;
-* Marketing opportunities to be featured in conference materials and presented in media announcements;
+* Matchmaking opportunities with local enterprises, which will be invited to business session;
+* Marketing opportunities featured in conference materials and presented in media announcements;
 * Networking with highly capable developers and well-trained students.
 
-We are expecting about 300 participants with delegates from Asia and around the world. The GNOME.Asia Summit is a unique and international conference which offers sponsors the chance to tap into fast-growing local markets, discover new business opportunities and increase awareness for their products among early adopters and technology multipliers.
+We are expecting about 300 participants with delegates from Asia and around the world.
+The GNOME.Asia Summit is a unique and international conference which offers sponsors the chance to tap into fast-growing local markets,
+discover new business opportunities, and increase awareness for their products among early adopters and technology multipliers.
 
 History of GNOME Asia
 ===
@@ -48,15 +55,15 @@ Conference Venue - BeiHang University
 Event Funding
 ===
 
-An event the size of GNOME.Asia a significant number of expenses, which fall broadly into three categories:
+An event at the size of GNOME.Asia faces a significant number of expenses, which fall broadly into three categories:
 
 Speaker Travel and Accommodation
 ====
-Many conference attendees who contribute to the event with their knowledge have to travel huge distances to participate in the event. Quite a few of them come from outside China, while others come from other parts of Asia. These are the people who make this event happen – they provide the core content of the event. As far as possible, we try to provide at least accommodation to speakers, and, if possible, travel sponsorship as well.
+Many conference attendees who contribute to the event with their knowledge have to travel huge distances to participate in the event. Quite a few of them come from outside China, while others come from other parts of Asia. These are the people who make this event happen – they provide the core content of the conference. As far as possible, we try to provide at least accommodation to our speakers, and, if possible, travel sponsorship.
 
 Infrastructure Expenses
 ====
-These are expenses related to providing support services at the event. They include facilities such as networks, Internet service, and exposition hangars, labor, etc.
+In order to provide support services at the event, such as networks, Internet service, and exposition hangars, labor, etc.
 
 Delegate Expenses
 ====
@@ -66,7 +73,8 @@ The delegate fee is used entirely to provide food and conference materials to th
 Sponsorship Opportunities
 ===
 
-All speaker travel, venue and infrastructure expenses are met by raising funds from sponsors. We have been extremely fortunate to be generously sponsored by industry and government. Here are some of our past sponsors:
+All speakers travel, venue, and infrastructure expenses are met by raising funds from sponsors.
+We have been extremely fortunate to be generously sponsored by our industrial and governmental partners, such as:
 * Oracle
 * Red Hat
 * Google
@@ -119,6 +127,7 @@ Please note:
 |Delegate Kit| Yes | Yes | Yes | Yes |
 |Event Report| Yes | Yes | Yes | Yes |
 
+
 Custom Sponsorship
 ===
 
@@ -139,11 +148,11 @@ Joined sponsorship with other GNOME events such as GUADEC (the GNOME User and De
 The Sponsorship Process
 ===
 
-The following is the flow of action as far as sponsorships are concerned:
+The procedure for sponsorship matters is the following:
  1. Prospective Sponsor (You) receives the Sponsor Document (this document that you are reading)
- 2. Decision is made to become a sponsor of GNOME.Asia 2014, and the sponsorship level
- 3. An e-mail is sent to committee@gnome.asia, informing the organizers of your decision
- 4. GNOME.Asia will confirm that the sponsor slot is still available, and will send you an invoice and a contract, along with detailed payment instructions.
+ 2. You decide to become a sponsor of the GNOME.Asia Summit 2014 as well as the sponsorship level
+ 3. You send an e-mail to committee@gnome.asia, informing the organizers of your decision
+ 4. GNOME.Asia will confirm that the sponsor slot is still available and will send you an invoice as well as a contract, along with detailed payment instructions.
  5. You sign the contract, and return it to GNOME.Asia
  6. You initiate internal approvals for the payment of the invoice, and release the payment of the invoice to GNOME.Asia.
  7. GNOME.Asia sends you the sponsorship acceptance letter.
@@ -152,7 +161,7 @@ Please note that all sponsorships are first come, first serve, and that no spons
 
 To ensure that matters move quickly and smoothly, we use electronic documents and transactions where possible. Therefore, the invoice and contract will be sent to you as a printable PDF file. This has been found to be acceptable by most people over the past few years.
 
-If, however, you require paper documents to start processing matters, we can courier them to your nearest office. However, please be aware that this could slow down the process, and that other potential sponsors could move faster to secure the sponsorship slot.
+If, however, you require paper documents to start processing matters, we can send them to your nearest office. However, please be aware that this could slow down the process, and that other potential sponsors could move faster to secure the sponsorship slot.
 Once the sponsorship has been secured, you will receive instructions about logo formats, banners, marketing collateral, etc. Each item will have dates associated with it. Please ensure that the requested material reaches us by the deadline – if you miss the deadline, that particular item may not be processed.
 
 For example – if we indicate that logos are required by a certain date so that we can include them in the advertisements (if you are at a sponsorship level where your logo would be included in an advertisement) and you miss that deadline, the advertisement may be published without your logo.
@@ -163,7 +172,7 @@ If you have any queries, please do not hesitate to contact us at committee@gnome
 Privacy Policy
 ===
 
-GNOME.Asia will not, under any circumstances, release information about attendees of the event, such as contact information, names, etc. Our privacy policy, which we strictly adhere to, protects the privacy of all participants of GNOME.Asia (delegates, speakers, volunteers, etc.).
+GNOME.Asia will not, under any circumstances, release information about attendees of the event, such as contact information, names, etc. Our privacy policy, which we strictly adhere to, protects the privacy of all participants of the GNOME.Asia Summit (delegates, speakers, volunteers, etc.).
 
 Information about delegates will only be released in the form of demographics. Emailing of registered attendees will be done only by GNOME.Asia, never by a sponsor. However, sponsors/exhibitors may collect information from delegates by encouraging them to provide contact information at the stall (“drop your card or fill a form”), through contests run at the stall or through communication included in the delegate kit.
 
@@ -182,7 +191,7 @@ GNOME.Asia Summit is the yearly GNOME users and developers Asian conference. The
 About GNOME and the GNOME Foundation
 ===
 
-The GNOME desktop is a free, easy to use, accessible and internationalized desktop for Linux and Unix-based operating systems and is used by millions. GNOME is a standard part of all leading GNU/Linux and Unix distributions, and is popular with both large existing corporate deployments and small business and home users. GNOME also includes a complete development environment, which provides the core platform for thousands of applications.
+The GNOME desktop is a free, easy to use, accessible and internationalized desktop for Linux- and Unix-based operating systems and is used by millions. GNOME is a standard part of all leading GNU/Linux and Unix distributions, and is popular with both large existing corporate deployments and small business and home users. GNOME also includes a complete development environment, which provides the core platform for thousands of applications.
 
 The GNOME Foundation is an organization committed to supporting the advancement of GNOME, comprised of hundreds of volunteer developers and industry-leading companies. The Foundation is a member   directed, non-profit organization that provides financial, organizational and operational support to the GNOME project and helps determine its vision and road map. The GNOME Foundation is supporting the pursuit of Software Freedom through the innovative, accessible, and beautiful user experience created by GNOME contributors around the world. It's a fun and inviting community, so if you're reading this and wondering what you can do to help promote Software Freedom, contributing to GNOME is a great way to start! More information about GNOME, the GNOME Foundation and its advisory board, can be found at www.gnome.org, foundation.gnome.org and live.gnome.org/AdvisoryBoard
 
