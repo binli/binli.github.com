@@ -1,4 +1,4 @@
-baseurl = "http://binli.github.io/"
+baseURL = "http://binli.github.io/"
 title = "Debugging"
 theme = "hugo-coder"
 languageCode = "en"
