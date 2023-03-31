@@ -8,8 +8,8 @@ on:
       - main
 
   # Allows you to run this workflow manually from the Actions tab
-  #workflow_dispatch:
-  check_suite:
+  workflow_dispatch:
+  #check_suite:
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
